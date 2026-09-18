@@ -1,0 +1,24 @@
+{
+  "name": "snag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascano98/Snag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lucascano98/Snag/issues"
+  },
+  "homepage": "https://github.com/lucascano98/Snag#readme",
+  "devDependencies": {
+    "vitest": "^4.1.11"
+  }
+}

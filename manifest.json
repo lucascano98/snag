@@ -1,17 +1,11 @@
 {
   "manifest_version": 3,
   "name": "Snag",
-  "description": "Runs a script when a user enters a blacklisted website",
+  "description": "Browser extension that intercepts visits to user-blacklisted sites with a 'why are you here?' prompt.",
   "version": "1.0",
   "options_ui": {
     "page": "options.html",
     "open_in_tab": false
-  },
-  "icons": {
-    "16": "images/",
-    "32": "images/",
-    "48": "images/",
-    "128": "images/"
   },
   "background": {
     "service_worker": "service-worker.js"
